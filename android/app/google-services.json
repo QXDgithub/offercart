@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058899771022",
+    "project_id": "offercartdb-46336",
+    "storage_bucket": "offercartdb-46336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058899771022:android:d60812616fbb0747c893df",
+        "android_client_info": {
+          "package_name": "com.mycompany.offercart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhQZ6Yxl5aV56bWa5dNCN5Kkui_fmoD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
